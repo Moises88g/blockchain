@@ -1,3 +1,4 @@
+![Screenshot_20240623-123024_Chrome](https://github.com/scy-edu/blockchain/assets/173624014/934b46c9-a090-4885-ae32-fb40349fd3be)
 # Building Your First Blockchain
 
 You are here because you are excited about Crypto and you want to understand how Blockchains work.
